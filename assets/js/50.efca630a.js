@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{446:function(t,n,s){"use strict";s.r(n);var e=s(2),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("blockquote",[t("p",[this._v("键值对集合。Map和Set让对象和序列化功能完善。")])])])}),[],!1,null,null,null);n.default=o.exports}}]);

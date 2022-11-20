@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[72],{472:function(n,t,s){"use strict";s.r(t);var e=s(2),o=Object(e.a)({},(function(){var n=this._self._c;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("p",[this._v("vue理论\n1、生命周期\n2、双向绑定\n3、数据绑定\n4、虚拟DOM\n5、Diff算法\n6、MVVM")])])}),[],!1,null,null,null);t.default=o.exports}}]);

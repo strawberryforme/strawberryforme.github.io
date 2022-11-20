@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{478:function(t,n,s){"use strict";s.r(n);var o=s(2),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("blockquote",[t("p",[this._v("算法和设计模式是平时会用的编码习惯")])])])}),[],!1,null,null,null);n.default=e.exports}}]);
